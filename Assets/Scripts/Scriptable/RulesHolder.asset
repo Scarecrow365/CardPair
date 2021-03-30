@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f0a949d04bbd9d45af9e71a5fcfaf70, type: 3}
+  m_Name: RulesHolder
+  m_EditorClassIdentifier: 
+  levelData:
+  - gridRows: 2
+    gridCols: 4
+    offsetX: 2
+    offsetY: 2.4
+    prefabCard: {fileID: 6309827519689222081, guid: acc2796e81275b34694a945dc29ba341, type: 3}
+    images:
+    - {fileID: 21300000, guid: 21a67d3a3a6238f43ba458abe359099e, type: 3}
+    - {fileID: 21300000, guid: ece78d6f9494ac44cad5196266fe6c46, type: 3}
+    - {fileID: 21300000, guid: 1cc29dea19ed6524f9c963e369f33b09, type: 3}
+    - {fileID: 21300000, guid: fcdf1fb825078824d8138f12616f7626, type: 3}
